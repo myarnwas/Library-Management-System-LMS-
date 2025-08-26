@@ -58,6 +58,15 @@ and Admins who manage the overall system and generate reports.
 
 ---
 
+## Before You Run 🚀
+
+1. First, please **Star ⭐** the repository and then click **Fork ** (you can find the Fork button at the top-right of this page).  
+2. After that, clone the project to your local machine using this code:  
+   ```bash
+   git clone https://github.com/myarnwas/Library-Management-System-LMS-.git
+
+---
+
 ## 📂 How to Run
 
 1. Make sure you have **JDK 8+** installed.  
