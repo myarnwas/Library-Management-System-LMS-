@@ -77,7 +77,7 @@ and Admins who manage the overall system and generate reports.
 
 •	The system will automatically create the library.db SQLite database file with the required tables if it doesn’t exist.
 •	Each dashboard opens as a separate form with real functionality connected to the database.
-
+•	click here to show video: https://drive.google.com/drive/folders/15DwBRWbbKADbcFME3JBb52dFQ4w437oU
 ---
 
 ## 👨‍💻 Author
