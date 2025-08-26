@@ -49,6 +49,9 @@ and Admins who manage the overall system and generate reports.
 - 📊 System reports & statistics  
 - ⚙️ System settings  
 
+
+🎥 [Click here to watch the demo video](https://drive.google.com/drive/folders/15DwBRWbbKADbcFME3JBb52dFQ4w437oU)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -89,6 +92,6 @@ and Admins who manage the overall system and generate reports.
 •	click here to show video: https://drive.google.com/drive/folders/15DwBRWbbKADbcFME3JBb52dFQ4w437oU
 ---
 
-## 👨‍💻 Author
+## 💻 Author
 
 Developed by **Mayar Waleed Nawas**
